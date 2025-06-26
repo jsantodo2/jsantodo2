@@ -1,16 +1,23 @@
 ## Hi there 👋
 
-<!--
-**jsantodo2/jsantodo2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Rafael Santodomingo
 
-Here are some ideas to get you started:
+I'm an electronic and electrical engineer exploring how to apply Python 🐍 to automate, analyze and simulate real-world systems ⚡.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Skills
+- Python (NumPy, Matplotlib, Tkinter)
+- Electrical systems modeling
+- Microcontrollers (Assembler, C++ long ago)
+- Git & GitHub
+
+## 🚀 Current Goals
+- Build Python projects for electronics
+- Share useful tools for engineers
+- Learn more about automation and data analysis
+
+## 📫 Contact
+You can reach me at: rafael@email.com
+
+## 📄 License
+This content is licensed under the [MIT License](LICENSE)
+
