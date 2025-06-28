@@ -1,14 +1,6 @@
-## Hi 👋
-
-# I'm Julio Santodomingo
+## Hi 👋 I'm Julio Santodomingo
 
 I'm an electronic and electrical engineer exploring how to apply Python 🐍 to automate, analyze and simulate real-world systems ⚡.
-
-## 🔧 Skills
-- Python (NumPy, Matplotlib, Tkinter)
-- Electrical systems modeling
-- Microcontrollers (Assembler, C++ long ago)
-- Git & GitHub
 
 ## 🚀 Current Goals
 - Build Python projects for electronics
